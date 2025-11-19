@@ -1,0 +1,5 @@
+{
+  "name": "cineflix main",
+  "description": "A Netflix-style movie and anime streaming website powered by TMDb, Jikan, and Google Gemini for an immersive viewing experience with AI-powered recommendations.",
+  "requestFramePermissions": []
+}
